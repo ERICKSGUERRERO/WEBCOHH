@@ -1,0 +1,6 @@
+C:\Users\Bryam\Downloads\PROYECTO PANDO WEB\RH_HOBBWeb\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Bryam\Downloads\PROYECTO PANDO WEB\RH_HOBBWeb\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Bryam\Downloads\PROYECTO PANDO WEB\RH_HOBBWeb\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Bryam\Downloads\PROYECTO PANDO WEB\RH_HOBBWeb\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Bryam\Downloads\PROYECTO PANDO WEB\RH_HOBBWeb\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Bryam\Downloads\PROYECTO PANDO WEB\RH_HOBBWeb\CapaEntidad\obj\Debug\CapaEntidad.pdb
