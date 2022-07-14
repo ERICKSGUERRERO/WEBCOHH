@@ -1,0 +1,6 @@
+C:\Users\Bryam\Downloads\PROYECTO PANDO WEB\RH_HOBBWeb\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Bryam\Downloads\PROYECTO PANDO WEB\RH_HOBBWeb\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Bryam\Downloads\PROYECTO PANDO WEB\RH_HOBBWeb\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Bryam\Downloads\PROYECTO PANDO WEB\RH_HOBBWeb\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Bryam\Downloads\PROYECTO PANDO WEB\RH_HOBBWeb\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Bryam\Downloads\PROYECTO PANDO WEB\RH_HOBBWeb\CapaNegocio\obj\Debug\CapaNegocio.pdb
